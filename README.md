@@ -1,2 +1,0 @@
-# ZomB
-Team ZomB
