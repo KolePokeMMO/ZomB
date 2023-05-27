@@ -24,6 +24,9 @@
     max-width: 300px;
 }
 
+.img-event {
+    max-height: 500px;
+}
 
  *,
 :after,
