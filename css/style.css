@@ -38,7 +38,7 @@
 	color: #ccc;
 	text-decoration: none;
 	text-transform: uppercase;
-	border-right: 1px #303030 dotted;
+	border-right: 1px #FB5B21 dotted;
 	-webkit-transition: color 0.2s linear, background 0.2s linear;
 	-moz-transition: color 0.2s linear, background 0.2s linear;
 	-o-transition: color 0.2s linear, background 0.2s linear;
@@ -47,7 +47,7 @@
 .exo-menu > li > a.active,
 .exo-menu > li > a:hover,
 li.drop-down ul > li > a:hover{
-	background:#303030;
+	background:#FB5B21;
 	color:#fff;
 }
 .exo-menu i {
@@ -81,7 +81,7 @@ li.drop-down>ul{
   top: 0;
   min-width: 230px;
   display: none;
-  border-left: 1px solid #303030;
+  border-left: 1px solid #FB5B21;
   }
 
 li.drop-down>ul>li>a,
@@ -91,7 +91,7 @@ li.drop-down>ul>li>a,
 	display: block;
 	padding: 20px 22px;
 	text-decoration: none;
-	background-color: #303030;
+	background-color: #FB5B21;
 	border-bottom: 1px dotted #2e2e2e;
 	-webkit-transition: color 0.2s linear, background 0.2s linear;
 	-moz-transition: color 0.2s linear, background 0.2s linear;
@@ -158,7 +158,7 @@ h4.row.mega-title {
   text-transform: uppercase;
   border-bottom: 1px solid #2e2e2e;
   padding-top: 15px;
-  background-color: #303030
+  background-color: #FB5B21
   }
  .mega-menu ul li a {
   line-height: 25px;
