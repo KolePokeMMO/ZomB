@@ -92,7 +92,7 @@ li.drop-down>ul>li>a,
 	padding: 20px 22px;
 	text-decoration: none;
 	background-color: #303030;
-	border-bottom: 1px dotted #222222;
+	border-bottom: 1px dotted #2e2e2e;
 	-webkit-transition: color 0.2s linear, background 0.2s linear;
 	-moz-transition: color 0.2s linear, background 0.2s linear;
 	-o-transition: color 0.2s linear, background 0.2s linear;
@@ -156,7 +156,7 @@ h4.row.mega-title {
   padding-left: 15px;
   padding-bottom: 13px;
   text-transform: uppercase;
-  border-bottom: 1px solid #222222;
+  border-bottom: 1px solid #2e2e2e;
   padding-top: 15px;
   background-color: #303030
   }
@@ -211,7 +211,7 @@ ul.icon-des li {
 	display:none;
 	color:#fefefe;
 	padding-top:15px;
-	background:#222222;
+	background:#2e2e2e;
 	padding-bottom:15px;
 }
 .Blog .blog-title{
@@ -235,7 +235,7 @@ ul.icon-des li {
 	 display:none;
 	color:#fefefe;
 	padding-top:15px;
-	background:#222222;
+	background:#2e2e2e;
 	padding-bottom:15px;
 }
 .Images h4 {
@@ -248,7 +248,7 @@ ul.icon-des li {
 .flyout-left ul>li>a,
 .flyout-mega-wrap,
 .mega-menu{
-	background-color: #222222;
+	background-color: #2e2e2e;
 }
 
 /*hover*/
