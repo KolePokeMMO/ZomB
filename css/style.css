@@ -81,7 +81,7 @@ li.drop-down>ul{
   top: 0;
   min-width: 230px;
   display: none;
-  border-left: 1px solid #365670;
+  border-left: 1px solid #303030;
   }
 
 li.drop-down>ul>li>a,
@@ -91,7 +91,7 @@ li.drop-down>ul>li>a,
 	display: block;
 	padding: 20px 22px;
 	text-decoration: none;
-	background-color: #365670;
+	background-color: #303030;
 	border-bottom: 1px dotted #547787;
 	-webkit-transition: color 0.2s linear, background 0.2s linear;
 	-moz-transition: color 0.2s linear, background 0.2s linear;
@@ -158,7 +158,7 @@ h4.row.mega-title {
   text-transform: uppercase;
   border-bottom: 1px solid #547787;
   padding-top: 15px;
-  background-color: #365670
+  background-color: #303030
   }
  .mega-menu ul li a {
   line-height: 25px;
