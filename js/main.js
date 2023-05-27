@@ -19,6 +19,14 @@
     });
     
     
+    $(function () {
+ $('.toggle-menu').click(function(){
+	$('.exo-menu').toggleClass('display');
+	
+ });
+ 
+});
+    
     // Back to top button
     $(window).scroll(function () {
         if ($(this).scrollTop() > 100) {
