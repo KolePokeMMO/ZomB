@@ -190,6 +190,10 @@ ul.stander li a {
     list-style-type: square !important;
 }
 
+ul.stander li {
+    list-style-type: square !important;
+}
+
 ul.description li {
     padding-bottom: 12px;
     line-height: 8px;
