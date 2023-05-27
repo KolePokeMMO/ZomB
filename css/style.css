@@ -20,7 +20,22 @@
 
 
 
+ *,
+:after,
+:before {
+  box-sizing: border-box
+}
 
+.clearfix:after,
+.clearfix:before {
+  content: '';
+  display: table
+}
+
+.clearfix:after {
+  clear: both;
+  display: block
+}
 
 .content{
 	margin: 50px 100px 0px 100px;
