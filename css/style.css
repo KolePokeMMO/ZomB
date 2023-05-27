@@ -31,7 +31,7 @@
 	list-style: none;
 	position:relative;
 	background: #202020;
-    z-index: 0;
+    z-index: 1000;
 }
 .exo-menu > li {	display: inline-block;float:left;}
 .exo-menu > li > a{
