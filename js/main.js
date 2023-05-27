@@ -20,12 +20,10 @@
     
     
     $(function () {
- $('.toggle-menu').click(function(){
-	$('.exo-menu').toggleClass('display');
-	
- });
- 
-});
+        $('.toggle-menu').click(function(){
+	       $('.exo-menu').toggleClass('display');
+        });
+    });
     
     // Back to top button
     $(window).scroll(function () {

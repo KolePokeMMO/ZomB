@@ -22,13 +22,15 @@
 
 
 
-
+.content{
+	margin: 50px 100px 0px 100px;
+}
 .exo-menu{
 	width: 100%;
 	float: left;
 	list-style: none;
 	position:relative;
-	background: #23364B;
+	background: #202020;
 }
 .exo-menu > li {	display: inline-block;float:left;}
 .exo-menu > li > a{
