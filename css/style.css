@@ -37,7 +37,7 @@
 	color: #ccc;
 	text-decoration: none;
 	text-transform: uppercase;
-	border-right: 1px #365670 dotted;
+	border-right: 1px #303030 dotted;
 	-webkit-transition: color 0.2s linear, background 0.2s linear;
 	-moz-transition: color 0.2s linear, background 0.2s linear;
 	-o-transition: color 0.2s linear, background 0.2s linear;
@@ -46,7 +46,7 @@
 .exo-menu > li > a.active,
 .exo-menu > li > a:hover,
 li.drop-down ul > li > a:hover{
-	background:#009FE1;
+	background:#505050;
 	color:#fff;
 }
 .exo-menu i {
