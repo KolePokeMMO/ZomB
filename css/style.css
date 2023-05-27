@@ -187,7 +187,7 @@ h4.row.mega-title {
 }
 ul.stander li a {
     padding: 3px 0px;
-    list-style-type: square;
+    list-style-type: square !important;
 }
 
 ul.description li {
