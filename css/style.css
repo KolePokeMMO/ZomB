@@ -20,6 +20,11 @@
 
 
 
+.img-responsive {
+    max-width: 200px;
+}
+
+
  *,
 :after,
 :before {
