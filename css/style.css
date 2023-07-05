@@ -573,3 +573,7 @@ h6,
         background: var(--primary);
     }
 }
+
+.social {color:#ff0000;}
+.shunting {color:#ff00ff;}
+.support {color:#ffff00;}
